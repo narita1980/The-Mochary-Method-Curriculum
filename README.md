@@ -28,7 +28,7 @@
 - Decision-Making
 - 1-1s
 - The basics
-  - Mission, Vision, Values:  How to create them
+  - [Mission, Vision, Values:  How to create them](Mission, Vision, Values: How to create them.md)
     - [PUBLIC] Mochary Method - Vision 2031
     - Brainstorming template for company outcomes and actions
   - Values: how to create them
