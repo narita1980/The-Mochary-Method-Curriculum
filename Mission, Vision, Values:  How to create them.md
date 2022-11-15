@@ -1,43 +1,42 @@
-# Mission, Vision, Values:  How to create them (2 min)
+# ミッション、ビジョン、バリュー: 作成方法 (2 min)
 
 Example:  [PUBLIC] Mochary Method - Vision 2031
 
-## Mission
+## ミッション
 
-A mission should state the purpose of the company in one simple, short and memorable sentence. To do this, I like to answer the following question in as few words as possible:
+ミッションは、会社の目的を簡潔で短く、印象に残る一文で示す必要があります。そのために、次の質問にできるだけ短い言葉で答えたいと思います。:
 
-Our purpose is to do what for whom?
+私たちの目的は、誰のために何をするのか？
 
-## Vision
+## ビジョン
 
-A vision is simply a prediction of what the company will look like far on the horizon once it has achieved massive success. This can take many forms. But I like to keep it as short as possible (so that it is memorable) while also reinforcing key components. To me, those components are: 
+ビジョンとは、企業が大きな成功を収めた後、はるか先の地平でどのような姿になるかを予測したものです。ビジョンにはさまざまな形があります。しかし私は、できるだけ短く（記憶に残るように）、しかも重要な構成要素を補強したものを作りたいと考えています。私にとっては、そのような構成要素とは: 
 
-- Customer
-- Problem
-- Solution
-- Moat
+- 顧客
+- 問題
+- 解決策
+- 参入障壁
 
-Therefore, to create the ten-year vision, I imagine it is ten years from now. We are the dominant company in the industry. I ask myself:
+そこで、10年後のビジョンをつくるために、10年後をイメージしています。業界では圧倒的な存在感を持っている。自問自答する:
 
-- What industry do we dominate?
-- Who is our customer (this should be a real live human being, not a corporate entity)
-- What pain do they have that we're solving for them?
-- What is unique about our solution that causes the customer to choose us over the competition?
-- What asset (human or physical) do we control that makes it difficult for any competitor to copy our solution? In other words, what is our moat?
+- どのような業界を支配しているのか？
+- 顧客は誰か（これは企業体ではなく、生身の人間であるべき）。
+- 私たちが解決してあげたいのは、彼らが抱えているどんな痛みなのか？
+- お客様が競合他社を差し置いて当社を選ぶ理由は、当社のソリューションのどこにあるのでしょうか？
+- 競合他社が当社のソリューションをコピーすることを困難にする、当社がコントロールする資産（人的・物的）は何か？言い換えれば、私たちの参入障壁は何なのか？
 
-## Values
+## 価値観
 
-There are many ways to create company values. Values should clearly define the behaviors that you want all team members to exhibit. Once created, you should hire for these behaviors and fire those unwilling to do these behaviors.
+会社の価値観を作るには、さまざまな方法があります。価値観は、チームメンバー全員に示してほしい行動を明確に定義するものです。一度作成したら、そのような行動を取れる人を採用し、そのような行動を取る気がない人を解雇すべきです。
 
-Here are two ways to determine what those behaviors are.
+ここでは、それらの行動を判断する方法を2つ紹介します。
 
-A simple one is to complete the following sentence: "The rest of you in the company can make all of the decisions from now on, as long as you …." This is appropriate when the company is small, and values are entirely aspirational.
+簡単なものでは、次の文章を完成させることです。"会社の残りの皆さんは、あなたが・・・であれば、これからはすべての決断を下すことができます。" これは、会社の規模が小さく、価値観が完全に向上心に満ちている場合に適しています。
 
-Another version is to acknowledge the culture that you already have. To do this, use a Brainstorming: written session to 
+もうひとつのバージョンは、すでに持っている文化を認めることです。これを行うには、ブレインストーミング：筆記セッションを使用して、以下のことを行います。
 
-- Ask each Leadership Team member to write down several examples of a person in the company who is NOT on the Leadership Team and exhibits a behavior that they wish would be a universal behavior. Name the person and the behavior. 
-- Of all the examples given, select 3-5.  
-- These are now your values (with real examples!). 
+- 各リーダーシップチームメンバーに、社内でリーダーシップチームに属さない人物で、普遍的な行動であってほしいと思う行動をとっている人の例をいくつか書き出してもらいます。その人物と行動の名前を挙げてください。
+- 与えられた例の中から、3～5を選んでください。  
+- これが今のあなたの価値観です（実例を挙げて！）。
 
-This method is best used when the company already has a sizable team and existing culture.
-
+この方法は、すでにある程度の規模のチームと既存の文化がある場合に最適です。
